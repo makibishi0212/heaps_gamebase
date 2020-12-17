@@ -1,0 +1,4 @@
+res/.tmp
+redist
+bin/*.*
+.vscode/settings.json
